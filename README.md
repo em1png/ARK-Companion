@@ -1,4 +1,4 @@
-# ARK-Companion
+# ARK Companion
 
 ## Description
 
