@@ -8,15 +8,7 @@ The application is using React.js, TypeScript, React Router for frontend develop
 [<img src="https://i.imgur.com/RVLGAmS.png">](https://ark-companion.vercel.app/)
 
 ## Technologies
-Project is created with:
 ![alt text](https://i.imgur.com/8tfFmjA.png)
-
-* React.js
-* TypeScript
-* React Router
-* Tailwind CSS
-* Radix UI
-* Vite
 
 ## Installation
 To run this application locally, follow these steps:
