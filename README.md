@@ -10,6 +10,9 @@ The application is using React.js, TypeScript, React Router for frontend develop
 ## Technologies
 ![alt text](https://i.imgur.com/ZslEwPU.png)
 
+## Screenshots
+![alt text](https://i.imgur.com/rCnrLGv.png)
+
 ## Installation
 To run this application locally, follow these steps:
 
@@ -19,8 +22,3 @@ $ cd ARK-Companion
 $ npm install
 $ npm run dev
 ```
-
-## Screenshots
-![alt text](https://i.imgur.com/rCnrLGv.png)
-
-
