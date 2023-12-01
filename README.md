@@ -9,6 +9,8 @@ The application is using React.js, TypeScript, React Router for frontend develop
 
 ## Technologies
 Project is created with:
+![alt text](https://i.imgur.com/Uzu7a5S.png)
+
 * React.js
 * TypeScript
 * React Router
