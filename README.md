@@ -11,7 +11,7 @@ The application is using React.js, TypeScript, React Router for frontend develop
 ![alt text](https://i.imgur.com/tnzw7Vg.png)
 
 ## Screenshots
-![alt text](https://i.imgur.com/rCnrLGv.png)
+![alt text](https://i.imgur.com/m9fSncX.png)
 
 ## Installation
 To run this application locally, follow these steps:
