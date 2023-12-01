@@ -8,7 +8,7 @@ The application is using React.js, TypeScript, React Router for frontend develop
 [<img src="https://i.imgur.com/4yXBFo2.png">](https://ark-companion.vercel.app/)
 
 ## Technologies
-![alt text](https://i.imgur.com/dFd5FrL.png)
+![alt text](https://i.imgur.com/tnzw7Vg.png)
 
 ## Screenshots
 ![alt text](https://i.imgur.com/rCnrLGv.png)
