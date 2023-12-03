@@ -27,7 +27,14 @@ const ItemsConsumables = () => {
                         </li>
 
                         <li className="flex justify-center items-start p-3 border-r border-neutral-800 flex-col small-medium">
-                            <p><span className="text-neutral-400 small-semibold">Duration:</span> {items.consumables[consumableName].effectDuration / 60}s</p>
+                            <p>
+                                <span className="text-neutral-400 small-semibold">
+                                    Duration: 
+                                </span>
+                                {items.consumables[consumableName].effectDuration < 60
+                                    ? ` ${items.consumables[consumableName].effectDuration}s`
+                                    : ` ${items.consumables[consumableName].effectDuration / 60}m`}
+                            </p>
                             <p><span className="text-neutral-400 small-semibold">Spoils in:</span> {items.consumables[consumableName].spoilsIn}h</p>
                         </li>
 

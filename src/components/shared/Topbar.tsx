@@ -72,7 +72,7 @@ const Topbar = () => {
       <div className="container flex flex-col md:flex-row flex-between py-4">
         <div className="flex cursor-pointer mb-5 md:mb-0" onClick={() => navigate('/')}>
           <div className="flex flex-center mr-3 " >
-            <img src="./logo-small.png" alt="" width={40} height={40} />
+            <img src="/logo-small.png" alt="" width={40} height={40} />
           </div>
 
           <Link to='/'>
