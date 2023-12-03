@@ -493,7 +493,7 @@ export const items: IItems = {
     },
     battleTartare: {
       name: "Battle Tartare",
-      image: "/items/consumables/shadowSteakSaute.webp",
+      image: "/items/consumables/battleTartare.webp",
       desc: ["+65% Melee Damage", "+15% Damage resistance", "+50% Movement Speed", "+50% Food and Water consumption", "Increased Stamina regen", "-90 Health (0.45 per second)"],
       effectDuration: 180,
       spoilsIn: 5,
